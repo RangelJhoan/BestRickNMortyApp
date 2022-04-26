@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BestRickNMortyApp</string>
+    <string name="nombre_usuario">Nombre usuario</string>
+    <string name="correo_ar_ejemplo_p_com">correo@ejemplo.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="characters">Personajes</string>
+    <string name="locations">Lugares</string>
+    <string name="episodes">Episodios</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
 </resources>

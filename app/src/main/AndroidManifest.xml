@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BestRickNMortyApp">
         <activity
-            android:name=".MenuPrincipalActivity"
+            android:name=".MainMenuActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
