@@ -1,0 +1,19 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+v
+Fapp/src/main/java/com/example/bestricknmortyapp/entities/Location.java,0\e\0e3a812d0cc4473ff43c0f4c35aa7de7873527a0
+t
+Dapp/src/main/java/com/example/bestricknmortyapp/entities/Origin.java,e\6\e6653fce4db3fa2f488a6ac2f7e8e3feefb57a67
+¢
+rapp/src/main/java/com/example/bestricknmortyapp/iu/character/getCharactersList/getCharactersListPresenterImpl.java,9\e\9e9604323aa2c6b89d9960bb2fe37b894f8a38ce
+˜
+happ/src/main/java/com/example/bestricknmortyapp/iu/character/getCharactersList/getCharactersListMVP.java,a\d\ad58d2c9894320dc55364601d368b10f3f5db655
+y
+Iapp/src/main/java/com/example/bestricknmortyapp/iu/CharacterFragment.java,3\d\3da18a2c932c790ca2d8d916bf0df79dd3b11bff
+ž
+napp/src/main/java/com/example/bestricknmortyapp/iu/character/getCharactersList/getCharactersListModelImpl.java,a\5\a532b66161acf1ec6bda727b2c56dbc6ee624f3d
+x
+Happ/src/main/java/com/example/bestricknmortyapp/utilities/Utilities.java,b\3\b39ebd970df415f21a1cccba6abf9ac4fd4babf7
+w
+Gapp/src/main/java/com/example/bestricknmortyapp/entities/Character.java,2\e\2ead9ce92549692d18c106e75d7937b485660ed1

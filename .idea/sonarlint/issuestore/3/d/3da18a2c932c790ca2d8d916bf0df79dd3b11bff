@@ -1,0 +1,29 @@
+
+r
+java:S1450"VRemove the "binding" field and declare it as a local variable in the relevant methods.(Óãöd8¨Ûø¹‡0
+E
+java:S1185("(Remove this method to simply inherit it.(¡Œşø8Åöˆº‡0
+T
+java:S1128"7Remove this unused import 'com.android.volley.Request'.(Å½ä8ÌÏş¹‡0
+Y
+java:S1128"<Remove this unused import 'com.android.volley.RequestQueue'.(¹şÌ×8ÌÏş¹‡0
+U
+java:S1128"8Remove this unused import 'com.android.volley.Response'.(ˆïƒ 8ÍÏş¹‡0
+X
+java:S1128";Remove this unused import 'com.android.volley.VolleyError'.(­°Ñ”8ÍÏş¹‡0
+f
+java:S1128"IRemove this unused import 'com.android.volley.toolbox.JsonObjectRequest'.(Ã¦¿¾8ÍÏş¹‡0
+b
+java:S1128"ERemove this unused import 'com.android.volley.toolbox.StringRequest'.(”¯ÆŞ8ÍÏş¹‡0
+[
+java:S1128">Remove this unused import 'com.android.volley.toolbox.Volley'.(¢‰Ò¶8ÍÏş¹‡0
+o
+java:S1128"MRemove this unused import 'com.example.bestricknmortyapp.entities.Character'.(üù¢ÿÿÿÿÿ8ÍÏş¹‡0
+i
+java:S1128"LRemove this unused import 'com.example.bestricknmortyapp.entities.Location'.(şÎï8ÎÏş¹‡0
+l
+java:S1128"JRemove this unused import 'com.example.bestricknmortyapp.entities.Origin'.(¤ë°çùÿÿÿÿ8ÎÏş¹‡0
+Q
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8ÎÏş¹‡0
+R
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8ÎÏş¹‡0
