@@ -8,11 +8,10 @@ import androidx.core.view.GravityCompat;
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.widget.Toast;
 
 import com.example.bestricknmortyapp.databinding.ActivityMainMenuBinding;
-import com.example.bestricknmortyapp.iu.CharacterFragment;
-import com.example.bestricknmortyapp.iu.EpisodeFragment;
+import com.example.bestricknmortyapp.iu.character.CharacterFragment;
+import com.example.bestricknmortyapp.iu.Episode.EpisodeFragment;
 import com.example.bestricknmortyapp.iu.LocationFragment;
 
 public class MainMenuActivity extends AppCompatActivity {

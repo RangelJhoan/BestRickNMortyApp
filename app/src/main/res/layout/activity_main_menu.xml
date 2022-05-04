@@ -12,7 +12,7 @@
         android:id="@+id/fcvContainer"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="com.example.bestricknmortyapp.iu.CharacterFragment"/>
+        android:name="com.example.bestricknmortyapp.iu.character.CharacterFragment"/>
 
     <com.google.android.material.navigation.NavigationView
         android:id="@+id/nvMenu"

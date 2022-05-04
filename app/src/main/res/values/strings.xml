@@ -8,4 +8,10 @@
     <string name="episodes">Episodios</string>
     <string name="open_drawer">Open</string>
     <string name="close_drawer">Close</string>
+    <string name="name">Nombre</string>
+    <string name="previous">Anterior</string>
+    <string name="next">Siguiente</string>
+    <string name="name_colon">Nombre:</string>
+    <string name="air_date_colon">Fecha de emisión:</string>
+    <string name="air_date">Fecha emisión</string>
 </resources>
