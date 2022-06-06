@@ -39,12 +39,9 @@ public class CharacterFragment extends Fragment implements GetCharactersListMVP.
         super.onViewCreated(view, savedInstanceState);
         presenter = new GetCharactersListPresenterImpl(this);
         presenter.getCharactersList(getContext(), Utilities.URL_CHARACTERS);
-        binding.btnNext.setOnClickListener(view1 -> {
-            presenter.getCharactersList(getContext(), nextPageUrl);
-        });
-        binding.btnPrevious.setOnClickListener(view1 -> {
-            presenter.getCharactersList(getContext(), previousPageUrl);
-        });
+
+        binding.btnNext.setOnClickListener(view1 -> presenter.getCharactersList(getContext(), nextPageUrl));
+        binding.btnPrevious.setOnClickListener(view1 -> presenter.getCharactersList(getContext(), previousPageUrl));
     }
 
     @Override

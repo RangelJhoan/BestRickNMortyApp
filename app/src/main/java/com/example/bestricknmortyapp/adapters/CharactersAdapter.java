@@ -49,8 +49,8 @@ public class CharactersAdapter extends RecyclerView.Adapter<CharactersAdapter.Vi
     }
 
     public class ViewHolderCharacters extends RecyclerView.ViewHolder {
-        final private ImageView ivAvatar;
-        final private TextView tvName;
+        private final ImageView ivAvatar;
+        private final TextView tvName;
         public ViewHolderCharacters(ItemGridCharactersBinding binding) {
             super(binding.getRoot());
             ivAvatar = binding.ivAvatar;

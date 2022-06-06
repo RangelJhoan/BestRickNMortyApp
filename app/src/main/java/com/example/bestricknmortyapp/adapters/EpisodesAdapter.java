@@ -40,13 +40,12 @@ public class EpisodesAdapter extends RecyclerView.Adapter<EpisodesAdapter.ViewHo
     }
 
     public class ViewHolderEpisodes extends RecyclerView.ViewHolder {
-        TextView tvName, tvAirDate;
+        private final TextView tvName;
+        private final TextView tvAirDate;
         public ViewHolderEpisodes(ItemGridEpisodesBinding binding) {
             super(binding.getRoot());
-
             tvName = binding.tvName;
             tvAirDate = binding.tvAirDate;
-
         }
     }
 }
